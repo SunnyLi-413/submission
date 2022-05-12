@@ -1,0 +1,1093 @@
+﻿time,temp,weather,wind,humidity,barometer,visibility
+"00:50
+Fri, 1 Nov",9 °C,Low clouds.,5 mph,94%,1012 mbar,3 km
+01:50,9 °C,Low clouds.,7 mph,100%,1010 mbar,3 km
+02:50,10 °C,Low clouds.,8 mph,94%,1008 mbar,3 km
+03:50,10 °C,Low clouds.,8 mph,100%,1007 mbar,3 km
+04:50,10 °C,Low clouds.,7 mph,100%,1005 mbar,2 km
+05:50,11 °C,Passing clouds.,6 mph,100%,1004 mbar,1 km
+06:50,12 °C,Drizzle. Mostly cloudy.,8 mph,94%,1003 mbar,2 km
+07:21,12 °C,Drizzle. Mostly cloudy.,8 mph,100%,1003 mbar,3 km
+07:50,12 °C,Drizzle. Mostly cloudy.,6 mph,100%,1002 mbar,5 km
+08:20,13 °C,Drizzle. Partly sunny.,6 mph,94%,1001 mbar,5 km
+08:50,13 °C,Drizzle. Mostly cloudy.,7 mph,100%,1001 mbar,7 km
+09:20,13 °C,Drizzle. Mostly cloudy.,7 mph,100%,1000 mbar,N/A
+09:50,14 °C,Drizzle. Partly sunny.,7 mph,94%,1000 mbar,N/A
+10:20,14 °C,Partly sunny.,9 mph,94%,999 mbar,N/A
+10:50,15 °C,Mostly cloudy.,8 mph,94%,999 mbar,N/A
+11:35,15 °C,Drizzle. Mostly cloudy.,8 mph,94%,998 mbar,N/A
+11:50,15 °C,Drizzle. Mostly cloudy.,7 mph,94%,997 mbar,9 km
+12:20,15 °C,Drizzle. Partly sunny.,8 mph,94%,997 mbar,5 km
+12:50,15 °C,Broken clouds.,7 mph,94%,996 mbar,N/A
+13:23,16 °C,Broken clouds.,8 mph,88%,996 mbar,N/A
+13:50,16 °C,Broken clouds.,8 mph,88%,995 mbar,N/A
+14:20,16 °C,Light rain. Partly sunny.,8 mph,88%,995 mbar,N/A
+14:50,15 °C,Partly sunny.,13 mph,88%,995 mbar,N/A
+15:20,15 °C,Partly sunny.,8 mph,88%,994 mbar,N/A
+15:50,15 °C,Partly sunny.,8 mph,88%,994 mbar,N/A
+16:21,15 °C,Overcast.,7 mph,88%,993 mbar,N/A
+16:50,15 °C,Overcast.,8 mph,88%,993 mbar,N/A
+17:50,14 °C,Low clouds.,6 mph,94%,992 mbar,N/A
+18:50,15 °C,Low clouds.,9 mph,94%,991 mbar,N/A
+19:50,15 °C,Passing clouds.,14 mph,94%,990 mbar,N/A
+20:50,15 °C,Passing clouds.,9 mph,94%,989 mbar,N/A
+21:50,15 °C,Passing clouds.,10 mph,94%,988 mbar,N/A
+22:50,15 °C,Passing clouds.,15 mph,94%,986 mbar,N/A
+23:50,15 °C,Passing clouds.,13 mph,88%,986 mbar,N/A
+"00:50
+Sat, 2 Nov",14 °C,Passing clouds.,14 mph,88%,986 mbar,N/A
+01:50,13 °C,Passing clouds.,16 mph,94%,986 mbar,3 km
+02:50,12 °C,Passing clouds.,15 mph,94%,985 mbar,N/A
+03:50,12 °C,Passing clouds.,14 mph,88%,985 mbar,N/A
+04:50,11 °C,Partly cloudy.,9 mph,88%,984 mbar,N/A
+05:50,10 °C,Passing clouds.,12 mph,82%,984 mbar,N/A
+06:50,10 °C,Passing clouds.,12 mph,76%,983 mbar,N/A
+07:20,10 °C,Scattered clouds.,12 mph,76%,983 mbar,N/A
+07:50,11 °C,Partly sunny.,13 mph,77%,982 mbar,N/A
+08:20,11 °C,Broken clouds.,14 mph,77%,981 mbar,N/A
+08:50,11 °C,Rain. Mostly cloudy.,17 mph,82%,980 mbar,9 km
+09:20,10 °C,Rain. Broken clouds.,18 mph,88%,978 mbar,7 km
+09:50,10 °C,Light rain. Mostly cloudy.,23 mph,88%,977 mbar,N/A
+10:09,10 °C,Rain. Broken clouds.,20 mph,94%,976 mbar,5 km
+10:20,10 °C,Rain. Broken clouds.,22 mph,94%,976 mbar,5 km
+10:50,11 °C,Light rain. Broken clouds.,21 mph,100%,976 mbar,9 km
+11:20,13 °C,Broken clouds.,22 mph,88%,975 mbar,N/A
+11:50,13 °C,Scattered clouds.,25 mph,77%,975 mbar,N/A
+12:21,13 °C,Broken clouds.,23 mph,77%,976 mbar,N/A
+12:50,13 °C,Broken clouds.,22 mph,72%,976 mbar,N/A
+13:20,13 °C,Light rain. Partly sunny.,18 mph,77%,977 mbar,N/A
+13:50,12 °C,Broken clouds.,13 mph,88%,977 mbar,N/A
+14:50,13 °C,Broken clouds.,17 mph,77%,976 mbar,N/A
+15:20,13 °C,Light rain. Broken clouds.,18 mph,77%,977 mbar,N/A
+15:57,12 °C,Rain. Broken clouds.,18 mph,88%,977 mbar,7 km
+16:20,12 °C,Light rain. Broken clouds.,13 mph,94%,977 mbar,N/A
+16:50,12 °C,Light rain. Passing clouds.,17 mph,88%,977 mbar,N/A
+17:50,11 °C,Passing clouds.,18 mph,88%,978 mbar,N/A
+18:50,11 °C,Partly cloudy.,17 mph,82%,978 mbar,N/A
+19:50,10 °C,Partly cloudy.,17 mph,88%,978 mbar,N/A
+20:50,11 °C,Passing clouds.,13 mph,82%,979 mbar,N/A
+21:50,11 °C,Overcast.,14 mph,77%,978 mbar,N/A
+22:50,10 °C,Passing clouds.,13 mph,82%,978 mbar,N/A
+23:50,9 °C,Passing clouds.,9 mph,82%,978 mbar,N/A
+"00:50
+Sun, 3 Nov",9 °C,Passing clouds.,7 mph,82%,979 mbar,N/A
+01:50,8 °C,Passing clouds.,7 mph,87%,978 mbar,N/A
+04:50,6 °C,Clear.,5 mph,93%,979 mbar,N/A
+05:50,5 °C,Clear.,2 mph,93%,979 mbar,N/A
+06:50,4 °C,Fog.,2 mph,100%,980 mbar,N/A
+07:20,4 °C,Sunny.,No wind,93%,980 mbar,16 km
+07:50,4 °C,Sunny.,1 mph,100%,980 mbar,16 km
+08:20,4 °C,Scattered clouds.,No wind,100%,981 mbar,N/A
+08:50,6 °C,Scattered clouds.,1 mph,93%,981 mbar,N/A
+09:20,9 °C,Scattered clouds.,2 mph,94%,981 mbar,N/A
+09:50,10 °C,Passing clouds.,6 mph,82%,981 mbar,N/A
+10:20,11 °C,Scattered clouds.,6 mph,77%,981 mbar,N/A
+10:50,11 °C,Partly sunny.,6 mph,77%,981 mbar,N/A
+11:20,11 °C,Drizzle. More clouds than sun.,3 mph,82%,981 mbar,N/A
+11:50,11 °C,Partly sunny.,3 mph,88%,981 mbar,N/A
+12:20,11 °C,Broken clouds.,5 mph,88%,982 mbar,N/A
+12:50,10 °C,Drizzle. Mostly cloudy.,7 mph,94%,982 mbar,5 km
+13:20,10 °C,Drizzle. Broken clouds.,6 mph,94%,982 mbar,5 km
+13:50,10 °C,Broken clouds.,7 mph,100%,982 mbar,N/A
+14:50,11 °C,Partly sunny.,6 mph,88%,982 mbar,N/A
+15:20,11 °C,Broken clouds.,5 mph,88%,983 mbar,N/A
+15:50,11 °C,Partly sunny.,5 mph,88%,983 mbar,N/A
+16:50,10 °C,Passing clouds.,3 mph,94%,983 mbar,N/A
+17:20,10 °C,Passing clouds.,5 mph,94%,984 mbar,N/A
+17:50,10 °C,Clear.,6 mph,94%,984 mbar,16 km
+18:50,9 °C,Passing clouds.,2 mph,94%,984 mbar,N/A
+19:50,8 °C,Clear.,1 mph,93%,983 mbar,4 km
+20:50,8 °C,Passing clouds.,2 mph,100%,983 mbar,6 km
+21:50,9 °C,Partly cloudy.,8 mph,100%,983 mbar,4 km
+22:50,10 °C,Passing clouds.,7 mph,94%,983 mbar,N/A
+23:50,9 °C,Passing clouds.,6 mph,94%,983 mbar,N/A
+"00:50
+Mon, 4 Nov",8 °C,Clear.,3 mph,93%,983 mbar,N/A
+01:50,8 °C,Partly cloudy.,3 mph,93%,983 mbar,N/A
+02:50,8 °C,Passing clouds.,2 mph,93%,982 mbar,9 km
+03:50,8 °C,Passing clouds.,2 mph,100%,982 mbar,N/A
+04:50,8 °C,Partly cloudy.,3 mph,100%,982 mbar,5 km
+05:50,8 °C,Passing clouds.,2 mph,100%,982 mbar,8 km
+06:50,7 °C,Fog.,1 mph,100%,982 mbar,6 km
+07:22,8 °C,Fog.,2 mph,100%,983 mbar,7 km
+07:50,8 °C,Fog.,1 mph,93%,983 mbar,6 km
+08:23,8 °C,Fog.,1 mph,100%,983 mbar,7 km
+08:50,8 °C,Fog.,3 mph,100%,983 mbar,6 km
+09:21,10 °C,Partly sunny.,2 mph,94%,983 mbar,N/A
+09:50,11 °C,Fog.,3 mph,82%,983 mbar,6 km
+10:21,10 °C,Partly sunny.,2 mph,88%,983 mbar,N/A
+10:50,11 °C,Partly sunny.,5 mph,82%,983 mbar,N/A
+11:22,11 °C,Partly sunny.,6 mph,88%,983 mbar,N/A
+11:50,11 °C,Broken clouds.,7 mph,88%,983 mbar,N/A
+12:22,12 °C,Broken clouds.,7 mph,82%,983 mbar,N/A
+12:50,12 °C,Broken clouds.,6 mph,82%,983 mbar,N/A
+13:23,13 °C,Partly sunny.,7 mph,72%,983 mbar,N/A
+13:50,12 °C,Partly sunny.,7 mph,77%,983 mbar,N/A
+14:21,13 °C,Scattered clouds.,8 mph,77%,983 mbar,N/A
+14:50,12 °C,Scattered clouds.,6 mph,77%,983 mbar,N/A
+15:20,12 °C,Broken clouds.,7 mph,72%,983 mbar,N/A
+15:50,12 °C,Broken clouds.,5 mph,77%,984 mbar,N/A
+16:20,11 °C,Scattered clouds.,5 mph,82%,984 mbar,N/A
+16:50,10 °C,Passing clouds.,3 mph,88%,984 mbar,N/A
+17:20,9 °C,Passing clouds.,3 mph,94%,984 mbar,N/A
+17:50,8 °C,Passing clouds.,2 mph,93%,985 mbar,N/A
+18:20,7 °C,Clear.,1 mph,93%,985 mbar,16 km
+18:50,6 °C,Fog.,3 mph,100%,985 mbar,N/A
+19:20,6 °C,Fog.,1 mph,93%,985 mbar,N/A
+19:50,6 °C,Fog.,2 mph,100%,986 mbar,N/A
+20:28,6 °C,Fog.,1 mph,100%,986 mbar,N/A
+20:50,5 °C,Fog.,1 mph,93%,986 mbar,9 km
+21:20,4 °C,Fog.,2 mph,93%,987 mbar,8 km
+21:50,5 °C,Fog.,3 mph,100%,987 mbar,7 km
+22:20,6 °C,Fog.,6 mph,100%,987 mbar,7 km
+22:50,5 °C,Fog.,3 mph,100%,987 mbar,6 km
+23:20,5 °C,Fog.,7 mph,100%,988 mbar,6 km
+23:50,5 °C,Fog.,5 mph,100%,988 mbar,6 km
+"00:50
+Tue, 5 Nov",6 °C,Partly cloudy.,3 mph,93%,989 mbar,1 km
+01:50,7 °C,Passing clouds.,7 mph,100%,989 mbar,0 km
+02:50,8 °C,Low clouds.,8 mph,100%,990 mbar,3 km
+03:50,8 °C,Low clouds.,9 mph,100%,991 mbar,5 km
+04:50,8 °C,Passing clouds.,10 mph,100%,991 mbar,8 km
+05:50,8 °C,Passing clouds.,8 mph,93%,992 mbar,N/A
+06:50,8 °C,Fog.,7 mph,93%,993 mbar,8 km
+07:23,8 °C,Low clouds.,8 mph,93%,994 mbar,8 km
+07:50,8 °C,Low clouds.,7 mph,100%,994 mbar,8 km
+08:20,9 °C,Low clouds.,5 mph,94%,995 mbar,7 km
+08:50,9 °C,Partly sunny.,3 mph,94%,995 mbar,6 km
+09:20,10 °C,Drizzle. Low clouds.,3 mph,94%,996 mbar,2 km
+09:50,10 °C,Drizzle. Partly sunny.,5 mph,94%,996 mbar,5 km
+10:20,10 °C,Fog.,7 mph,100%,996 mbar,7 km
+10:50,10 °C,Drizzle. Broken clouds.,8 mph,94%,997 mbar,8 km
+11:20,11 °C,Partly sunny.,7 mph,94%,997 mbar,N/A
+11:50,11 °C,Drizzle. Partly sunny.,7 mph,94%,997 mbar,8 km
+12:20,11 °C,Broken clouds.,7 mph,94%,997 mbar,N/A
+12:50,12 °C,Broken clouds.,7 mph,88%,997 mbar,N/A
+13:22,12 °C,Sprinkles. Scattered clouds.,9 mph,88%,998 mbar,8 km
+13:50,12 °C,Rain showers. Scattered clouds.,7 mph,88%,998 mbar,N/A
+14:50,12 °C,Scattered clouds.,8 mph,88%,999 mbar,N/A
+15:20,12 °C,Scattered clouds.,9 mph,88%,999 mbar,N/A
+15:50,12 °C,Sprinkles. Broken clouds.,8 mph,88%,1000 mbar,N/A
+16:21,11 °C,Broken clouds.,9 mph,94%,1000 mbar,N/A
+16:50,11 °C,Sprinkles. Partly cloudy.,12 mph,88%,1001 mbar,N/A
+17:21,11 °C,Partly cloudy.,10 mph,88%,1001 mbar,N/A
+17:50,11 °C,Partly cloudy.,12 mph,88%,1001 mbar,N/A
+18:21,11 °C,Passing clouds.,10 mph,88%,1002 mbar,8 km
+18:50,10 °C,Passing clouds.,10 mph,94%,1002 mbar,N/A
+19:20,10 °C,Passing clouds.,13 mph,94%,1003 mbar,N/A
+19:50,10 °C,Passing clouds.,12 mph,94%,1003 mbar,N/A
+20:21,10 °C,Passing clouds.,13 mph,88%,1003 mbar,N/A
+21:21,9 °C,Passing clouds.,12 mph,94%,1004 mbar,N/A
+21:50,9 °C,Passing clouds.,13 mph,94%,1004 mbar,N/A
+22:50,9 °C,Passing clouds.,12 mph,87%,1005 mbar,N/A
+23:50,8 °C,Passing clouds.,8 mph,87%,1005 mbar,N/A
+"00:50
+Wed, 6 Nov",6 °C,Clear.,8 mph,93%,1005 mbar,N/A
+01:50,5 °C,Clear.,6 mph,93%,1006 mbar,N/A
+02:50,4 °C,Clear.,5 mph,93%,1006 mbar,N/A
+03:50,3 °C,Clear.,3 mph,100%,1006 mbar,8 km
+04:50,3 °C,Clear.,2 mph,93%,1006 mbar,6 km
+05:50,3 °C,Passing clouds.,5 mph,100%,1006 mbar,5 km
+06:50,3 °C,Fog.,No wind,100%,1006 mbar,4 km
+07:20,3 °C,Fog.,2 mph,93%,1006 mbar,5 km
+07:50,3 °C,Fog.,2 mph,100%,1006 mbar,5 km
+08:23,4 °C,Fog.,No wind,93%,1006 mbar,5 km
+08:50,4 °C,Fog.,2 mph,100%,1006 mbar,5 km
+09:23,7 °C,Haze.,2 mph,87%,1006 mbar,7 km
+09:50,7 °C,Sunny.,3 mph,87%,1006 mbar,16 km
+10:50,9 °C,Sunny.,2 mph,76%,1005 mbar,16 km
+11:20,9 °C,Sunny.,2 mph,76%,1005 mbar,16 km
+11:50,9 °C,Broken clouds.,3 mph,76%,1004 mbar,N/A
+12:23,9 °C,Partly sunny.,3 mph,76%,1004 mbar,N/A
+12:50,9 °C,Partly sunny.,6 mph,76%,1004 mbar,N/A
+13:50,10 °C,Partly sunny.,5 mph,71%,1003 mbar,N/A
+14:50,9 °C,Sunny.,6 mph,71%,1003 mbar,16 km
+15:23,9 °C,Sunny.,6 mph,76%,1002 mbar,16 km
+15:50,9 °C,Light rain. Partly sunny.,6 mph,76%,1002 mbar,N/A
+16:22,8 °C,Light rain. Partly sunny.,6 mph,82%,1002 mbar,N/A
+16:50,8 °C,Light rain. Passing clouds.,6 mph,82%,1001 mbar,N/A
+17:22,8 °C,Light rain. Passing clouds.,5 mph,82%,1001 mbar,N/A
+17:50,8 °C,Light rain. Passing clouds.,5 mph,82%,1001 mbar,N/A
+18:50,8 °C,Passing clouds.,6 mph,82%,1000 mbar,N/A
+19:50,8 °C,Passing clouds.,7 mph,82%,999 mbar,N/A
+20:50,8 °C,Passing clouds.,7 mph,82%,998 mbar,N/A
+21:50,8 °C,Partly cloudy.,7 mph,82%,997 mbar,N/A
+22:50,8 °C,Passing clouds.,6 mph,82%,995 mbar,N/A
+23:50,8 °C,Partly cloudy.,8 mph,93%,994 mbar,N/A
+"00:50
+Thu, 7 Nov",8 °C,Passing clouds.,8 mph,93%,993 mbar,8 km
+01:50,8 °C,Passing clouds.,9 mph,93%,992 mbar,5 km
+02:50,8 °C,Passing clouds.,17 mph,100%,989 mbar,9 km
+03:50,9 °C,Passing clouds.,6 mph,94%,989 mbar,N/A
+04:50,8 °C,Passing clouds.,13 mph,93%,989 mbar,N/A
+05:50,7 °C,Passing clouds.,10 mph,93%,989 mbar,N/A
+06:50,7 °C,Passing clouds.,10 mph,93%,989 mbar,N/A
+07:20,7 °C,Partly sunny.,12 mph,93%,990 mbar,N/A
+07:50,7 °C,Broken clouds.,13 mph,93%,990 mbar,N/A
+08:20,7 °C,Passing clouds.,10 mph,93%,991 mbar,N/A
+08:50,7 °C,Passing clouds.,13 mph,93%,991 mbar,N/A
+09:20,8 °C,Passing clouds.,12 mph,87%,991 mbar,N/A
+09:50,8 °C,Passing clouds.,14 mph,82%,991 mbar,N/A
+10:20,9 °C,Passing clouds.,13 mph,76%,992 mbar,N/A
+10:50,9 °C,Passing clouds.,15 mph,76%,992 mbar,N/A
+11:20,9 °C,Passing clouds.,14 mph,76%,992 mbar,N/A
+11:50,10 °C,Passing clouds.,14 mph,71%,992 mbar,N/A
+12:21,10 °C,Passing clouds.,16 mph,71%,992 mbar,N/A
+12:50,10 °C,Passing clouds.,18 mph,67%,992 mbar,N/A
+13:50,10 °C,Passing clouds.,14 mph,67%,993 mbar,N/A
+14:50,10 °C,Passing clouds.,13 mph,62%,993 mbar,N/A
+15:50,9 °C,Passing clouds.,9 mph,66%,994 mbar,N/A
+16:21,8 °C,Passing clouds.,6 mph,71%,994 mbar,N/A
+16:50,8 °C,Passing clouds.,6 mph,71%,994 mbar,N/A
+17:24,7 °C,Passing clouds.,5 mph,76%,994 mbar,N/A
+17:50,6 °C,Passing clouds.,2 mph,76%,995 mbar,N/A
+18:23,6 °C,Clear.,1 mph,81%,995 mbar,16 km
+18:50,6 °C,Passing clouds.,1 mph,87%,995 mbar,N/A
+19:21,6 °C,Passing clouds.,No wind,81%,996 mbar,N/A
+19:50,4 °C,Passing clouds.,1 mph,87%,996 mbar,N/A
+20:50,4 °C,Clear.,2 mph,93%,997 mbar,16 km
+21:50,3 °C,Clear.,1 mph,93%,997 mbar,N/A
+22:50,2 °C,Clear.,1 mph,93%,998 mbar,N/A
+23:50,0 °C,Clear.,1 mph,100%,998 mbar,8 km
+"00:50
+Fri, 8 Nov",0 °C,Clear.,2 mph,93%,999 mbar,N/A
+01:50,0 °C,Clear.,1 mph,93%,999 mbar,N/A
+02:50,0 °C,Clear.,No wind,93%,1000 mbar,8 km
+03:50,-1 °C,Clear.,3 mph,100%,1000 mbar,7 km
+04:50,-1 °C,Passing clouds.,2 mph,93%,1001 mbar,6 km
+05:50,0 °C,Passing clouds.,2 mph,100%,1002 mbar,9 km
+06:50,-2 °C,Fog.,1 mph,100%,1003 mbar,N/A
+07:23,-2 °C,Ice fog.,2 mph,100%,1004 mbar,8 km
+07:50,-1 °C,Ice fog.,3 mph,93%,1004 mbar,8 km
+08:21,0 °C,Ice fog.,3 mph,93%,1005 mbar,8 km
+08:50,1 °C,Broken clouds.,3 mph,93%,1005 mbar,8 km
+09:19,3 °C,Fog.,2 mph,100%,1005 mbar,0 km
+09:50,4 °C,Fog.,2 mph,93%,1006 mbar,1 km
+10:20,5 °C,Fog.,3 mph,93%,1006 mbar,3 km
+10:50,5 °C,Fog.,3 mph,100%,1006 mbar,5 km
+11:21,6 °C,Fog.,3 mph,100%,1007 mbar,8 km
+11:50,7 °C,Broken clouds.,6 mph,93%,1007 mbar,N/A
+12:20,7 °C,Broken clouds.,8 mph,93%,1007 mbar,N/A
+12:50,7 °C,Partly sunny.,9 mph,87%,1007 mbar,N/A
+13:22,8 °C,Broken clouds.,10 mph,82%,1007 mbar,N/A
+13:50,8 °C,Scattered clouds.,10 mph,76%,1007 mbar,N/A
+14:50,8 °C,Partly sunny.,13 mph,76%,1008 mbar,N/A
+15:20,8 °C,Broken clouds.,9 mph,76%,1008 mbar,N/A
+15:50,8 °C,Partly sunny.,8 mph,76%,1009 mbar,N/A
+16:20,8 °C,Passing clouds.,9 mph,71%,1009 mbar,N/A
+16:50,7 °C,Passing clouds.,7 mph,76%,1009 mbar,N/A
+17:20,7 °C,Passing clouds.,6 mph,76%,1010 mbar,N/A
+17:50,6 °C,Passing clouds.,8 mph,81%,1010 mbar,N/A
+18:20,6 °C,Light rain. Passing clouds.,7 mph,81%,1010 mbar,N/A
+18:50,7 °C,Passing clouds.,7 mph,81%,1010 mbar,N/A
+19:50,6 °C,Passing clouds.,9 mph,87%,1011 mbar,N/A
+20:50,5 °C,Passing clouds.,8 mph,93%,1011 mbar,N/A
+21:20,5 °C,Partly cloudy.,6 mph,93%,1011 mbar,N/A
+21:50,5 °C,Passing clouds.,7 mph,93%,1011 mbar,N/A
+22:50,4 °C,Overcast.,5 mph,93%,1011 mbar,N/A
+23:50,4 °C,Passing clouds.,2 mph,93%,1011 mbar,N/A
+"00:50
+Sat, 9 Nov",3 °C,Clear.,5 mph,93%,1011 mbar,N/A
+01:50,2 °C,Clear.,3 mph,93%,1011 mbar,8 km
+02:50,1 °C,Clear.,3 mph,100%,1011 mbar,6 km
+03:50,0 °C,Passing clouds.,2 mph,100%,1010 mbar,4 km
+04:50,0 °C,Passing clouds.,2 mph,100%,1010 mbar,4 km
+05:50,-1 °C,Passing clouds.,No wind,100%,1010 mbar,1 km
+06:50,1 °C,Fog.,2 mph,100%,1009 mbar,0 km
+07:29,1 °C,Fog.,2 mph,100%,1009 mbar,0 km
+07:50,1 °C,Fog.,1 mph,100%,1009 mbar,0 km
+08:21,1 °C,Fog.,No wind,100%,1008 mbar,0 km
+08:50,1 °C,Fog.,2 mph,100%,1008 mbar,0 km
+09:20,2 °C,Fog.,3 mph,100%,1008 mbar,0 km
+09:50,2 °C,Fog.,6 mph,100%,1007 mbar,0 km
+10:21,3 °C,Fog.,5 mph,100%,1007 mbar,2 km
+10:50,4 °C,Fog.,5 mph,100%,1006 mbar,7 km
+11:20,6 °C,Partly sunny.,7 mph,93%,1005 mbar,8 km
+11:50,7 °C,Partly sunny.,9 mph,81%,1005 mbar,N/A
+12:20,7 °C,Partly sunny.,8 mph,81%,1004 mbar,N/A
+12:50,8 °C,Broken clouds.,8 mph,76%,1004 mbar,N/A
+13:20,7 °C,Rain. Partly sunny.,8 mph,81%,1004 mbar,N/A
+13:50,7 °C,Rain. Partly sunny.,7 mph,87%,1003 mbar,5 km
+14:50,7 °C,Rain. Broken clouds.,8 mph,93%,1002 mbar,5 km
+15:20,7 °C,Rain. Mostly cloudy.,8 mph,93%,1002 mbar,5 km
+15:50,7 °C,Rain. Mostly cloudy.,9 mph,93%,1001 mbar,5 km
+16:20,7 °C,Rain. Partly cloudy.,12 mph,93%,1001 mbar,6 km
+16:50,7 °C,Rain. Mostly cloudy.,12 mph,93%,1001 mbar,5 km
+17:50,7 °C,Rain. Mostly cloudy.,12 mph,100%,1001 mbar,6 km
+18:50,7 °C,Light rain. Mostly cloudy.,13 mph,100%,1000 mbar,9 km
+19:50,7 °C,Passing clouds.,14 mph,93%,1000 mbar,1 km
+20:50,7 °C,Passing clouds.,14 mph,93%,1000 mbar,N/A
+21:50,8 °C,Overcast.,14 mph,93%,1000 mbar,N/A
+22:50,7 °C,Partly cloudy.,7 mph,100%,1001 mbar,9 km
+23:50,7 °C,Partly cloudy.,7 mph,93%,1002 mbar,N/A
+"00:50
+Sun, 10 Nov",8 °C,Partly cloudy.,9 mph,93%,1002 mbar,N/A
+01:50,8 °C,Overcast.,12 mph,87%,1003 mbar,N/A
+02:50,7 °C,Partly cloudy.,13 mph,93%,1004 mbar,N/A
+03:50,7 °C,Passing clouds.,10 mph,93%,1006 mbar,N/A
+04:50,7 °C,Partly cloudy.,13 mph,93%,1007 mbar,N/A
+05:50,7 °C,Passing clouds.,9 mph,87%,1008 mbar,N/A
+06:50,6 °C,Passing clouds.,8 mph,93%,1009 mbar,N/A
+07:20,6 °C,Scattered clouds.,8 mph,87%,1010 mbar,N/A
+07:50,5 °C,Passing clouds.,9 mph,87%,1011 mbar,N/A
+08:20,5 °C,Passing clouds.,9 mph,87%,1011 mbar,N/A
+08:50,6 °C,Sunny.,10 mph,81%,1012 mbar,16 km
+09:22,6 °C,Sunny.,9 mph,87%,1012 mbar,16 km
+09:50,7 °C,Sunny.,8 mph,81%,1013 mbar,16 km
+10:21,8 °C,Passing clouds.,8 mph,76%,1013 mbar,N/A
+10:50,8 °C,Passing clouds.,9 mph,82%,1013 mbar,N/A
+11:27,9 °C,Passing clouds.,10 mph,71%,1013 mbar,N/A
+11:50,9 °C,Passing clouds.,9 mph,76%,1013 mbar,N/A
+12:20,10 °C,Passing clouds.,8 mph,71%,1013 mbar,N/A
+12:50,10 °C,Passing clouds.,8 mph,71%,1013 mbar,N/A
+13:20,10 °C,Passing clouds.,8 mph,71%,1013 mbar,N/A
+13:50,10 °C,Passing clouds.,7 mph,67%,1013 mbar,N/A
+14:20,10 °C,Passing clouds.,6 mph,67%,1013 mbar,N/A
+14:50,10 °C,Scattered clouds.,6 mph,67%,1014 mbar,N/A
+15:20,10 °C,Scattered clouds.,7 mph,67%,1014 mbar,N/A
+15:50,8 °C,Passing clouds.,5 mph,76%,1014 mbar,N/A
+16:20,7 °C,Passing clouds.,3 mph,81%,1014 mbar,N/A
+16:50,6 °C,Passing clouds.,1 mph,81%,1014 mbar,N/A
+17:20,6 °C,Passing clouds.,2 mph,87%,1014 mbar,N/A
+17:50,5 °C,Partly cloudy.,1 mph,87%,1013 mbar,N/A
+18:20,4 °C,Passing clouds.,1 mph,100%,1013 mbar,N/A
+18:50,5 °C,Fog.,1 mph,93%,1012 mbar,N/A
+19:20,4 °C,Fog.,5 mph,100%,1012 mbar,N/A
+19:50,4 °C,Clear.,1 mph,93%,1012 mbar,16 km
+20:20,4 °C,Fog.,1 mph,93%,1012 mbar,9 km
+20:50,4 °C,Fog.,2 mph,93%,1012 mbar,7 km
+21:50,4 °C,Overcast.,5 mph,100%,1011 mbar,7 km
+22:50,6 °C,Overcast.,6 mph,87%,1010 mbar,9 km
+23:50,5 °C,Overcast.,1 mph,93%,1009 mbar,N/A
+"00:50
+Mon, 11 Nov",6 °C,Partly cloudy.,5 mph,93%,1007 mbar,N/A
+01:50,6 °C,Passing clouds.,8 mph,93%,1005 mbar,N/A
+02:50,7 °C,Passing clouds.,8 mph,87%,1003 mbar,5 km
+03:50,7 °C,Passing clouds.,7 mph,93%,1002 mbar,5 km
+04:50,8 °C,Partly cloudy.,10 mph,93%,1000 mbar,5 km
+05:50,8 °C,Passing clouds.,10 mph,93%,999 mbar,6 km
+06:50,7 °C,Passing clouds.,17 mph,81%,1000 mbar,N/A
+07:20,6 °C,Partly sunny.,12 mph,87%,1000 mbar,N/A
+07:50,6 °C,Scattered clouds.,12 mph,87%,1001 mbar,N/A
+08:20,6 °C,Passing clouds.,10 mph,87%,1000 mbar,N/A
+08:50,6 °C,Passing clouds.,13 mph,87%,1000 mbar,N/A
+09:22,7 °C,Passing clouds.,14 mph,81%,1001 mbar,N/A
+09:50,7 °C,Passing clouds.,15 mph,81%,1001 mbar,N/A
+10:20,8 °C,Scattered clouds.,16 mph,76%,1001 mbar,N/A
+10:50,9 °C,Partly sunny.,15 mph,71%,1001 mbar,N/A
+11:20,9 °C,Partly sunny.,17 mph,76%,1001 mbar,N/A
+11:50,9 °C,Scattered clouds.,16 mph,71%,1001 mbar,N/A
+12:50,9 °C,Scattered clouds.,14 mph,66%,1001 mbar,N/A
+13:20,9 °C,Broken clouds.,18 mph,62%,1001 mbar,N/A
+13:50,9 °C,Scattered clouds.,17 mph,66%,1001 mbar,N/A
+14:20,9 °C,Partly sunny.,16 mph,66%,1001 mbar,N/A
+14:50,9 °C,Partly sunny.,14 mph,66%,1001 mbar,N/A
+15:20,9 °C,Partly sunny.,13 mph,66%,1001 mbar,N/A
+15:50,9 °C,Scattered clouds.,13 mph,62%,1001 mbar,N/A
+16:20,8 °C,Passing clouds.,10 mph,71%,1001 mbar,N/A
+16:50,8 °C,Passing clouds.,14 mph,66%,1001 mbar,N/A
+17:50,7 °C,Passing clouds.,8 mph,71%,1001 mbar,N/A
+18:22,6 °C,Clear.,8 mph,76%,1002 mbar,16 km
+18:50,6 °C,Clear.,12 mph,76%,1001 mbar,16 km
+19:50,5 °C,Clear.,9 mph,81%,1001 mbar,16 km
+20:22,5 °C,Clear.,10 mph,81%,1001 mbar,16 km
+20:50,5 °C,Clear.,10 mph,81%,1001 mbar,16 km
+21:50,4 °C,Passing clouds.,9 mph,87%,1001 mbar,N/A
+22:20,5 °C,Clear.,10 mph,81%,1001 mbar,16 km
+22:50,4 °C,Clear.,10 mph,87%,1001 mbar,16 km
+23:50,4 °C,Passing clouds.,10 mph,87%,1001 mbar,N/A
+"00:50
+Tue, 12 Nov",5 °C,Passing clouds.,12 mph,81%,1000 mbar,N/A
+01:50,5 °C,Overcast.,15 mph,81%,1000 mbar,N/A
+02:50,4 °C,Passing clouds.,9 mph,87%,1000 mbar,N/A
+03:50,4 °C,Passing clouds.,7 mph,87%,999 mbar,N/A
+04:50,4 °C,Passing clouds.,7 mph,87%,999 mbar,N/A
+05:50,3 °C,Clear.,9 mph,87%,999 mbar,N/A
+06:50,3 °C,Clear.,7 mph,87%,999 mbar,16 km
+07:24,3 °C,Sunny.,9 mph,87%,998 mbar,16 km
+07:50,3 °C,Sunny.,9 mph,87%,999 mbar,16 km
+08:20,4 °C,Sunny.,8 mph,87%,998 mbar,16 km
+08:50,5 °C,Sunny.,12 mph,81%,998 mbar,16 km
+09:23,6 °C,Sunny.,14 mph,71%,998 mbar,16 km
+09:50,7 °C,Sunny.,15 mph,71%,998 mbar,16 km
+10:50,8 °C,Scattered clouds.,16 mph,66%,997 mbar,N/A
+11:26,8 °C,Scattered clouds.,18 mph,66%,997 mbar,N/A
+11:50,8 °C,Light rain. Broken clouds.,18 mph,66%,997 mbar,N/A
+12:21,7 °C,Rain. Partly sunny.,20 mph,76%,997 mbar,9 km
+12:50,6 °C,Rain. Partly sunny.,17 mph,87%,997 mbar,N/A
+13:50,6 °C,Light rain. Cloudy.,13 mph,87%,996 mbar,9 km
+14:22,6 °C,Light rain. Broken clouds.,13 mph,93%,996 mbar,N/A
+14:50,6 °C,Light rain. Partly sunny.,13 mph,93%,996 mbar,N/A
+15:21,7 °C,Light rain. Broken clouds.,13 mph,87%,996 mbar,N/A
+15:50,7 °C,Light rain. Partly sunny.,14 mph,87%,996 mbar,N/A
+16:22,7 °C,Passing clouds.,16 mph,87%,996 mbar,N/A
+16:50,7 °C,Passing clouds.,15 mph,87%,996 mbar,N/A
+17:26,7 °C,Passing clouds.,14 mph,87%,997 mbar,N/A
+17:50,7 °C,Partly cloudy.,10 mph,87%,997 mbar,N/A
+18:20,7 °C,Partly cloudy.,9 mph,87%,998 mbar,N/A
+18:50,7 °C,Partly cloudy.,12 mph,93%,998 mbar,N/A
+19:50,8 °C,Passing clouds.,13 mph,87%,998 mbar,N/A
+20:20,8 °C,Passing clouds.,13 mph,87%,999 mbar,N/A
+20:50,8 °C,Passing clouds.,12 mph,82%,999 mbar,N/A
+21:50,8 °C,Passing clouds.,13 mph,82%,999 mbar,N/A
+22:50,8 °C,Overcast.,9 mph,82%,1000 mbar,N/A
+23:50,7 °C,Overcast.,9 mph,87%,1000 mbar,N/A
+"00:50
+Wed, 13 Nov",6 °C,Passing clouds.,8 mph,87%,1001 mbar,N/A
+01:50,5 °C,Passing clouds.,5 mph,87%,1001 mbar,N/A
+02:50,4 °C,Passing clouds.,5 mph,93%,1001 mbar,N/A
+03:50,3 °C,Clear.,6 mph,93%,1001 mbar,N/A
+04:50,3 °C,Passing clouds.,6 mph,100%,1001 mbar,N/A
+05:50,3 °C,Passing clouds.,5 mph,93%,1001 mbar,N/A
+06:50,4 °C,Clear.,9 mph,93%,1002 mbar,16 km
+07:20,4 °C,Scattered clouds.,7 mph,93%,1001 mbar,N/A
+07:50,4 °C,Partly sunny.,8 mph,93%,1001 mbar,N/A
+08:50,5 °C,Sunny.,7 mph,93%,1002 mbar,16 km
+09:20,6 °C,Sunny.,6 mph,87%,1001 mbar,16 km
+09:50,7 °C,Scattered clouds.,5 mph,81%,1001 mbar,N/A
+10:22,8 °C,Scattered clouds.,8 mph,76%,1001 mbar,N/A
+10:50,8 °C,Passing clouds.,6 mph,76%,1001 mbar,N/A
+11:23,9 °C,Passing clouds.,6 mph,76%,1000 mbar,N/A
+11:50,9 °C,Passing clouds.,8 mph,71%,999 mbar,N/A
+12:24,9 °C,Passing clouds.,7 mph,71%,999 mbar,N/A
+12:50,9 °C,Passing clouds.,8 mph,66%,999 mbar,N/A
+13:23,9 °C,Partly sunny.,8 mph,66%,998 mbar,N/A
+13:50,9 °C,Partly sunny.,7 mph,66%,998 mbar,N/A
+14:20,8 °C,Partly sunny.,8 mph,71%,998 mbar,N/A
+14:50,9 °C,Partly sunny.,9 mph,66%,997 mbar,N/A
+15:50,8 °C,Partly sunny.,3 mph,66%,996 mbar,N/A
+16:19,7 °C,Clear.,6 mph,71%,996 mbar,16 km
+16:50,6 °C,Clear.,6 mph,81%,995 mbar,16 km
+17:23,6 °C,Clear.,8 mph,81%,994 mbar,16 km
+17:50,5 °C,Clear.,8 mph,87%,994 mbar,16 km
+18:22,6 °C,Clear.,8 mph,81%,994 mbar,16 km
+18:50,6 °C,Overcast.,10 mph,87%,993 mbar,N/A
+19:50,6 °C,Light rain. Mostly cloudy.,9 mph,87%,992 mbar,N/A
+20:50,6 °C,Passing clouds.,13 mph,93%,991 mbar,N/A
+21:50,7 °C,Passing clouds.,14 mph,87%,990 mbar,N/A
+22:50,7 °C,Partly cloudy.,12 mph,87%,989 mbar,5 km
+23:50,6 °C,Passing clouds.,10 mph,93%,989 mbar,6 km
+"00:50
+Thu, 14 Nov",6 °C,Passing clouds.,7 mph,93%,989 mbar,4 km
+01:50,6 °C,Partly cloudy.,8 mph,93%,988 mbar,5 km
+02:50,6 °C,Overcast.,13 mph,93%,987 mbar,6 km
+03:50,5 °C,Passing clouds.,9 mph,93%,987 mbar,5 km
+04:50,4 °C,Passing clouds.,3 mph,100%,988 mbar,N/A
+05:50,4 °C,Passing clouds.,6 mph,93%,989 mbar,5 km
+06:50,4 °C,Partly cloudy.,5 mph,93%,990 mbar,N/A
+07:20,4 °C,Partly sunny.,6 mph,93%,991 mbar,N/A
+07:50,4 °C,Broken clouds.,3 mph,93%,991 mbar,N/A
+08:20,4 °C,Partly sunny.,5 mph,93%,992 mbar,N/A
+08:50,5 °C,Broken clouds.,6 mph,93%,992 mbar,N/A
+09:20,5 °C,Scattered clouds.,7 mph,93%,993 mbar,N/A
+09:50,6 °C,Broken clouds.,6 mph,87%,993 mbar,N/A
+10:20,6 °C,Broken clouds.,7 mph,87%,994 mbar,N/A
+10:50,7 °C,Broken clouds.,7 mph,81%,994 mbar,N/A
+11:03,7 °C,Broken clouds.,6 mph,81%,994 mbar,N/A
+11:20,7 °C,Scattered clouds.,5 mph,81%,994 mbar,N/A
+11:50,8 °C,Scattered clouds.,6 mph,82%,995 mbar,N/A
+12:20,8 °C,Scattered clouds.,5 mph,76%,995 mbar,N/A
+12:50,8 °C,Scattered clouds.,6 mph,71%,995 mbar,N/A
+13:20,9 °C,Scattered clouds.,6 mph,66%,995 mbar,N/A
+13:50,10 °C,Passing clouds.,6 mph,62%,996 mbar,N/A
+14:20,9 °C,Passing clouds.,3 mph,66%,996 mbar,N/A
+14:50,8 °C,Passing clouds.,2 mph,71%,996 mbar,N/A
+15:20,8 °C,Passing clouds.,2 mph,71%,997 mbar,N/A
+15:50,7 °C,Passing clouds.,2 mph,76%,997 mbar,N/A
+16:20,7 °C,Passing clouds.,8 mph,81%,998 mbar,N/A
+16:50,7 °C,Passing clouds.,8 mph,81%,999 mbar,N/A
+17:20,6 °C,Passing clouds.,6 mph,87%,999 mbar,N/A
+17:50,6 °C,Clear.,7 mph,87%,1000 mbar,16 km
+18:50,6 °C,Passing clouds.,7 mph,87%,1000 mbar,N/A
+19:20,5 °C,Partly cloudy.,7 mph,93%,1001 mbar,N/A
+19:50,5 °C,Passing clouds.,8 mph,93%,1001 mbar,N/A
+20:20,5 °C,Passing clouds.,8 mph,93%,1002 mbar,N/A
+20:50,5 °C,Passing clouds.,6 mph,93%,1002 mbar,N/A
+21:50,4 °C,Passing clouds.,8 mph,93%,1003 mbar,N/A
+22:20,4 °C,Passing clouds.,7 mph,93%,1003 mbar,N/A
+22:50,4 °C,Passing clouds.,8 mph,93%,1003 mbar,N/A
+23:50,4 °C,Passing clouds.,8 mph,100%,1004 mbar,N/A
+"00:50
+Fri, 15 Nov",4 °C,Partly cloudy.,6 mph,93%,1004 mbar,N/A
+01:50,3 °C,Passing clouds.,3 mph,100%,1004 mbar,9 km
+02:50,4 °C,Passing clouds.,7 mph,100%,1004 mbar,7 km
+03:50,4 °C,Partly cloudy.,7 mph,93%,1003 mbar,8 km
+04:50,4 °C,Partly cloudy.,8 mph,93%,1003 mbar,8 km
+05:50,4 °C,Passing clouds.,8 mph,100%,1004 mbar,N/A
+06:50,5 °C,Partly cloudy.,12 mph,93%,1003 mbar,N/A
+07:50,6 °C,Light rain. Broken clouds.,13 mph,87%,1004 mbar,N/A
+08:23,6 °C,Low clouds.,10 mph,87%,1004 mbar,N/A
+08:50,6 °C,Overcast.,10 mph,93%,1004 mbar,N/A
+09:50,7 °C,Mostly cloudy.,12 mph,87%,1004 mbar,N/A
+10:21,7 °C,Partly sunny.,12 mph,87%,1004 mbar,N/A
+10:50,7 °C,Mostly cloudy.,12 mph,93%,1004 mbar,N/A
+11:25,8 °C,Partly sunny.,14 mph,87%,1004 mbar,N/A
+11:50,8 °C,Partly sunny.,14 mph,87%,1003 mbar,N/A
+12:25,8 °C,Broken clouds.,14 mph,87%,1003 mbar,N/A
+12:49,8 °C,Partly sunny.,15 mph,82%,1002 mbar,N/A
+12:50,8 °C,Partly sunny.,15 mph,82%,1002 mbar,N/A
+13:23,9 °C,Broken clouds.,14 mph,76%,1002 mbar,N/A
+13:50,9 °C,Partly sunny.,15 mph,76%,1002 mbar,N/A
+14:50,8 °C,Partly sunny.,14 mph,82%,1002 mbar,N/A
+15:20,8 °C,Partly sunny.,15 mph,76%,1002 mbar,N/A
+15:50,8 °C,Partly sunny.,15 mph,76%,1002 mbar,N/A
+16:20,8 °C,Light rain. Partly cloudy.,15 mph,82%,1001 mbar,N/A
+16:50,8 °C,Light rain. Mostly cloudy.,16 mph,76%,1001 mbar,N/A
+17:20,8 °C,Light rain. Passing clouds.,16 mph,76%,1001 mbar,N/A
+17:50,7 °C,Light rain. Mostly cloudy.,16 mph,87%,1001 mbar,9 km
+18:20,7 °C,Light rain. Mostly cloudy.,16 mph,87%,1001 mbar,9 km
+18:50,7 °C,Light rain. Mostly cloudy.,16 mph,87%,1001 mbar,N/A
+19:20,7 °C,Light rain. Mostly cloudy.,14 mph,93%,1001 mbar,8 km
+19:50,7 °C,Light rain. Mostly cloudy.,13 mph,93%,1001 mbar,N/A
+20:20,7 °C,Light rain. Partly cloudy.,13 mph,93%,1001 mbar,N/A
+20:50,6 °C,Light rain. Overcast.,14 mph,87%,1001 mbar,N/A
+21:21,6 °C,Passing clouds.,10 mph,87%,1001 mbar,N/A
+21:50,6 °C,Light rain. Passing clouds.,10 mph,87%,1001 mbar,N/A
+22:20,6 °C,Light rain. Mostly cloudy.,14 mph,93%,1001 mbar,9 km
+22:50,6 °C,Light rain. Mostly cloudy.,13 mph,87%,1001 mbar,9 km
+23:20,6 °C,Passing clouds.,13 mph,87%,1001 mbar,N/A
+23:50,6 °C,Passing clouds.,12 mph,87%,1002 mbar,N/A
+"00:20
+Sat, 16 Nov",6 °C,Partly cloudy.,13 mph,87%,1002 mbar,N/A
+00:50,6 °C,Passing clouds.,12 mph,87%,1002 mbar,N/A
+01:50,6 °C,Partly cloudy.,13 mph,87%,1003 mbar,9 km
+02:50,6 °C,Passing clouds.,10 mph,81%,1003 mbar,N/A
+03:50,6 °C,Passing clouds.,8 mph,87%,1003 mbar,N/A
+04:50,6 °C,Passing clouds.,7 mph,87%,1003 mbar,N/A
+05:50,6 °C,Passing clouds.,7 mph,87%,1004 mbar,N/A
+06:50,4 °C,Partly cloudy.,2 mph,93%,1005 mbar,8 km
+07:20,3 °C,Broken clouds.,3 mph,100%,1005 mbar,8 km
+07:50,4 °C,Partly sunny.,2 mph,93%,1005 mbar,8 km
+08:21,4 °C,Partly sunny.,5 mph,100%,1006 mbar,8 km
+08:50,5 °C,Partly sunny.,3 mph,93%,1006 mbar,8 km
+09:24,5 °C,Partly sunny.,2 mph,93%,1006 mbar,8 km
+09:50,6 °C,Partly sunny.,2 mph,93%,1006 mbar,8 km
+10:25,6 °C,Partly sunny.,5 mph,87%,1006 mbar,N/A
+10:50,6 °C,Partly sunny.,5 mph,87%,1006 mbar,N/A
+11:50,7 °C,Partly sunny.,5 mph,81%,1006 mbar,N/A
+12:50,8 °C,Partly sunny.,5 mph,76%,1006 mbar,N/A
+13:50,8 °C,Partly sunny.,2 mph,71%,1006 mbar,N/A
+14:50,7 °C,Partly sunny.,No wind,76%,1007 mbar,N/A
+15:50,7 °C,Partly sunny.,No wind,81%,1007 mbar,N/A
+16:25,7 °C,Passing clouds.,3 mph,81%,1007 mbar,N/A
+16:50,7 °C,Overcast.,1 mph,81%,1007 mbar,N/A
+17:25,7 °C,Overcast.,2 mph,81%,1007 mbar,N/A
+17:50,7 °C,Overcast.,2 mph,81%,1007 mbar,N/A
+18:50,6 °C,Passing clouds.,3 mph,87%,1008 mbar,N/A
+19:50,5 °C,Mostly cloudy.,2 mph,87%,1008 mbar,N/A
+20:50,5 °C,Passing clouds.,No wind,87%,1008 mbar,N/A
+21:50,5 °C,Passing clouds.,3 mph,93%,1008 mbar,8 km
+22:50,3 °C,Fog.,1 mph,93%,1008 mbar,5 km
+23:50,1 °C,Passing clouds.,2 mph,100%,1008 mbar,3 km
+"00:50
+Sun, 17 Nov",2 °C,Overcast.,5 mph,93%,1009 mbar,4 km
+01:50,2 °C,Overcast.,1 mph,93%,1009 mbar,4 km
+02:50,1 °C,Overcast.,1 mph,100%,1009 mbar,3 km
+03:50,1 °C,Overcast.,1 mph,100%,1009 mbar,2 km
+04:50,1 °C,Overcast.,1 mph,100%,1009 mbar,4 km
+05:50,1 °C,Overcast.,1 mph,100%,1009 mbar,4 km
+06:50,0 °C,Ice fog.,2 mph,100%,1010 mbar,2 km
+07:21,0 °C,Ice fog.,1 mph,100%,1010 mbar,3 km
+07:50,1 °C,Fog.,1 mph,93%,1010 mbar,3 km
+08:21,1 °C,Fog.,2 mph,100%,1010 mbar,4 km
+08:50,2 °C,Partly sunny.,No wind,100%,1011 mbar,5 km
+09:50,3 °C,Fog.,1 mph,93%,1011 mbar,6 km
+10:23,4 °C,Fog.,3 mph,100%,1011 mbar,6 km
+10:50,5 °C,Fog.,3 mph,93%,1011 mbar,8 km
+11:27,6 °C,Partly sunny.,3 mph,87%,1010 mbar,9 km
+11:50,7 °C,Broken clouds.,1 mph,81%,1011 mbar,N/A
+12:28,8 °C,Broken clouds.,2 mph,76%,1011 mbar,N/A
+12:50,8 °C,Broken clouds.,3 mph,71%,1011 mbar,N/A
+13:50,8 °C,Partly sunny.,1 mph,71%,1011 mbar,N/A
+14:23,8 °C,Broken clouds.,3 mph,71%,1011 mbar,N/A
+14:50,8 °C,Broken clouds.,3 mph,71%,1011 mbar,N/A
+15:50,6 °C,Broken clouds.,5 mph,81%,1011 mbar,N/A
+16:50,5 °C,Passing clouds.,1 mph,87%,1012 mbar,N/A
+17:25,4 °C,Clear.,3 mph,87%,1012 mbar,16 km
+17:50,4 °C,Partly cloudy.,2 mph,93%,1012 mbar,N/A
+18:26,3 °C,Partly cloudy.,2 mph,93%,1012 mbar,7 km
+18:50,3 °C,Passing clouds.,5 mph,93%,1012 mbar,7 km
+19:50,5 °C,Passing clouds.,3 mph,100%,1013 mbar,5 km
+20:50,5 °C,Partly cloudy.,2 mph,93%,1013 mbar,4 km
+21:50,5 °C,Passing clouds.,2 mph,100%,1012 mbar,4 km
+22:50,6 °C,Low clouds.,2 mph,100%,1013 mbar,5 km
+23:50,7 °C,Low clouds.,9 mph,100%,1013 mbar,3 km
+"00:50
+Mon, 18 Nov",7 °C,Passing clouds.,9 mph,93%,1013 mbar,N/A
+01:50,7 °C,Passing clouds.,9 mph,87%,1013 mbar,N/A
+02:50,7 °C,Partly cloudy.,13 mph,87%,1014 mbar,N/A
+03:50,7 °C,Passing clouds.,9 mph,81%,1014 mbar,N/A
+04:50,6 °C,Overcast.,7 mph,81%,1014 mbar,N/A
+05:50,4 °C,Passing clouds.,6 mph,93%,1014 mbar,N/A
+06:50,4 °C,Passing clouds.,6 mph,93%,1015 mbar,N/A
+07:20,4 °C,Passing clouds.,8 mph,93%,1015 mbar,N/A
+07:50,4 °C,Passing clouds.,3 mph,93%,1015 mbar,N/A
+08:19,4 °C,Passing clouds.,6 mph,93%,1015 mbar,N/A
+08:50,5 °C,Passing clouds.,7 mph,93%,1015 mbar,N/A
+09:20,6 °C,Passing clouds.,9 mph,87%,1016 mbar,N/A
+09:50,7 °C,Passing clouds.,9 mph,81%,1016 mbar,N/A
+10:20,7 °C,Passing clouds.,9 mph,81%,1016 mbar,N/A
+10:50,7 °C,Passing clouds.,13 mph,81%,1015 mbar,N/A
+11:20,8 °C,Passing clouds.,10 mph,76%,1015 mbar,N/A
+11:50,8 °C,Scattered clouds.,10 mph,76%,1015 mbar,N/A
+12:23,8 °C,Scattered clouds.,10 mph,76%,1015 mbar,N/A
+12:50,8 °C,Scattered clouds.,12 mph,76%,1015 mbar,N/A
+13:50,8 °C,Scattered clouds.,13 mph,66%,1015 mbar,N/A
+14:50,8 °C,Passing clouds.,10 mph,66%,1016 mbar,N/A
+15:20,7 °C,Passing clouds.,8 mph,71%,1016 mbar,N/A
+15:50,6 °C,Passing clouds.,6 mph,76%,1016 mbar,N/A
+16:20,5 °C,Passing clouds.,6 mph,81%,1016 mbar,N/A
+16:50,4 °C,Passing clouds.,5 mph,87%,1016 mbar,N/A
+17:20,3 °C,Passing clouds.,3 mph,81%,1016 mbar,N/A
+17:50,4 °C,Passing clouds.,6 mph,87%,1016 mbar,N/A
+18:20,2 °C,Passing clouds.,5 mph,87%,1017 mbar,N/A
+18:50,2 °C,Passing clouds.,2 mph,87%,1017 mbar,N/A
+19:20,2 °C,Passing clouds.,1 mph,93%,1017 mbar,N/A
+19:50,1 °C,Passing clouds.,3 mph,93%,1017 mbar,N/A
+20:20,0 °C,Passing clouds.,2 mph,93%,1017 mbar,N/A
+20:50,0 °C,Passing clouds.,2 mph,100%,1017 mbar,N/A
+21:20,0 °C,Passing clouds.,2 mph,93%,1017 mbar,N/A
+21:50,-1 °C,Passing clouds.,2 mph,93%,1017 mbar,N/A
+22:20,0 °C,Clear.,1 mph,93%,1017 mbar,16 km
+22:50,-2 °C,Ice fog.,2 mph,93%,1017 mbar,N/A
+23:20,-1 °C,Ice fog.,1 mph,93%,1017 mbar,N/A
+23:50,-2 °C,Clear.,No wind,93%,1017 mbar,N/A
+"00:50
+Tue, 19 Nov",-2 °C,Clear.,2 mph,93%,1017 mbar,N/A
+01:50,-2 °C,Clear.,1 mph,93%,1017 mbar,9 km
+02:50,-3 °C,Clear.,1 mph,93%,1017 mbar,N/A
+03:50,-3 °C,Clear.,1 mph,93%,1017 mbar,N/A
+04:50,-2 °C,Passing clouds.,No wind,93%,1017 mbar,N/A
+05:50,-2 °C,Passing clouds.,1 mph,100%,1016 mbar,2 km
+06:20,-2 °C,Ice fog.,1 mph,93%,1016 mbar,1 km
+06:50,-2 °C,Ice fog.,1 mph,100%,1017 mbar,0 km
+07:20,-2 °C,Ice fog.,1 mph,100%,1017 mbar,0 km
+07:50,-2 °C,Ice fog.,1 mph,100%,1017 mbar,0 km
+08:50,-1 °C,Ice fog.,2 mph,100%,1017 mbar,2 km
+09:20,0 °C,Ice fog.,2 mph,100%,1017 mbar,3 km
+09:50,0 °C,Ice fog.,No wind,100%,1017 mbar,5 km
+10:19,1 °C,Fog.,1 mph,100%,1017 mbar,5 km
+10:50,2 °C,Fog.,1 mph,93%,1017 mbar,9 km
+11:20,2 °C,Fog.,2 mph,100%,1017 mbar,8 km
+11:50,4 °C,Fog.,1 mph,93%,1016 mbar,8 km
+12:20,5 °C,Partly sunny.,3 mph,87%,1016 mbar,N/A
+12:50,6 °C,Partly sunny.,5 mph,81%,1016 mbar,N/A
+13:19,6 °C,Partly sunny.,3 mph,81%,1016 mbar,N/A
+13:50,6 °C,Broken clouds.,5 mph,81%,1016 mbar,N/A
+14:50,7 °C,Partly sunny.,5 mph,81%,1016 mbar,N/A
+15:20,7 °C,Broken clouds.,5 mph,76%,1015 mbar,N/A
+15:50,6 °C,Sunny.,5 mph,81%,1015 mbar,16 km
+16:20,6 °C,Partly cloudy.,3 mph,81%,1015 mbar,N/A
+16:50,6 °C,Passing clouds.,2 mph,81%,1015 mbar,N/A
+17:20,6 °C,Passing clouds.,3 mph,81%,1015 mbar,N/A
+17:50,6 °C,Passing clouds.,6 mph,81%,1015 mbar,N/A
+18:50,5 °C,Passing clouds.,3 mph,87%,1016 mbar,N/A
+19:21,4 °C,Passing clouds.,3 mph,93%,1016 mbar,N/A
+19:50,3 °C,Passing clouds.,5 mph,93%,1015 mbar,N/A
+20:20,4 °C,Partly cloudy.,5 mph,93%,1016 mbar,N/A
+20:50,4 °C,Passing clouds.,5 mph,93%,1015 mbar,N/A
+21:50,3 °C,Passing clouds.,5 mph,93%,1015 mbar,N/A
+22:50,2 °C,Mostly cloudy.,3 mph,93%,1015 mbar,9 km
+23:50,1 °C,Overcast.,3 mph,100%,1015 mbar,9 km
+"00:50
+Wed, 20 Nov",3 °C,Passing clouds.,3 mph,93%,1014 mbar,N/A
+01:50,2 °C,Partly cloudy.,3 mph,93%,1014 mbar,N/A
+02:50,3 °C,Passing clouds.,7 mph,93%,1014 mbar,N/A
+03:50,2 °C,Passing clouds.,6 mph,93%,1014 mbar,N/A
+04:50,4 °C,Overcast.,7 mph,93%,1013 mbar,N/A
+05:50,5 °C,Passing clouds.,9 mph,81%,1013 mbar,N/A
+06:50,4 °C,Passing clouds.,5 mph,87%,1013 mbar,N/A
+07:20,2 °C,Passing clouds.,3 mph,87%,1014 mbar,N/A
+07:50,3 °C,Partly sunny.,7 mph,93%,1014 mbar,N/A
+08:20,5 °C,Partly sunny.,8 mph,81%,1014 mbar,N/A
+08:50,5 °C,Broken clouds.,7 mph,81%,1014 mbar,N/A
+09:20,6 °C,Partly sunny.,6 mph,76%,1014 mbar,N/A
+09:50,7 °C,Partly sunny.,8 mph,71%,1013 mbar,N/A
+10:20,7 °C,Partly sunny.,9 mph,71%,1013 mbar,N/A
+10:50,8 °C,Partly sunny.,12 mph,66%,1013 mbar,N/A
+11:20,8 °C,Partly sunny.,13 mph,66%,1012 mbar,N/A
+11:50,8 °C,Partly sunny.,15 mph,62%,1012 mbar,N/A
+12:20,8 °C,Partly sunny.,15 mph,62%,1012 mbar,N/A
+12:50,8 °C,Partly sunny.,13 mph,62%,1011 mbar,N/A
+13:20,8 °C,Partly sunny.,14 mph,62%,1011 mbar,N/A
+13:50,8 °C,Partly sunny.,15 mph,57%,1010 mbar,N/A
+14:50,7 °C,Sunny.,14 mph,61%,1009 mbar,16 km
+15:21,6 °C,Sunny.,15 mph,61%,1009 mbar,16 km
+15:50,5 °C,Sunny.,12 mph,66%,1009 mbar,16 km
+16:20,5 °C,Clear.,9 mph,70%,1009 mbar,16 km
+16:50,5 °C,Clear.,12 mph,70%,1009 mbar,16 km
+17:50,5 °C,Passing clouds.,12 mph,70%,1009 mbar,N/A
+18:50,5 °C,Passing clouds.,10 mph,76%,1009 mbar,N/A
+19:20,5 °C,Passing clouds.,12 mph,76%,1009 mbar,N/A
+19:50,4 °C,Passing clouds.,9 mph,81%,1009 mbar,N/A
+20:20,4 °C,Passing clouds.,9 mph,81%,1009 mbar,N/A
+20:50,4 °C,Passing clouds.,10 mph,81%,1009 mbar,N/A
+21:50,4 °C,Passing clouds.,9 mph,87%,1008 mbar,N/A
+22:50,3 °C,Passing clouds.,9 mph,87%,1008 mbar,N/A
+23:50,4 °C,Overcast.,9 mph,87%,1007 mbar,N/A
+"00:50
+Thu, 21 Nov",5 °C,Overcast.,10 mph,81%,1007 mbar,N/A
+01:50,5 °C,Overcast.,8 mph,81%,1006 mbar,N/A
+02:50,4 °C,Overcast.,8 mph,87%,1006 mbar,N/A
+03:50,4 °C,Overcast.,9 mph,87%,1006 mbar,9 km
+04:50,4 °C,Low clouds.,10 mph,87%,1006 mbar,8 km
+05:50,4 °C,Low clouds.,10 mph,87%,1005 mbar,7 km
+06:50,4 °C,Low clouds.,10 mph,87%,1005 mbar,8 km
+07:19,4 °C,Passing clouds.,10 mph,87%,1005 mbar,6 km
+07:50,4 °C,Partly sunny.,8 mph,87%,1005 mbar,7 km
+08:20,4 °C,Partly sunny.,6 mph,87%,1005 mbar,8 km
+08:50,4 °C,Partly sunny.,8 mph,87%,1005 mbar,7 km
+09:20,4 °C,Partly sunny.,9 mph,87%,1004 mbar,7 km
+09:50,4 °C,Partly sunny.,9 mph,87%,1004 mbar,7 km
+10:20,4 °C,Low clouds.,7 mph,87%,1004 mbar,7 km
+10:50,5 °C,Low clouds.,9 mph,87%,1004 mbar,7 km
+11:20,5 °C,Low clouds.,8 mph,87%,1003 mbar,7 km
+11:50,5 °C,Low clouds.,13 mph,87%,1003 mbar,7 km
+12:20,5 °C,Low clouds.,12 mph,87%,1003 mbar,7 km
+12:50,5 °C,Low clouds.,10 mph,87%,1002 mbar,8 km
+13:20,5 °C,Overcast.,13 mph,87%,1002 mbar,8 km
+13:50,5 °C,Overcast.,12 mph,87%,1002 mbar,7 km
+14:20,6 °C,Overcast.,12 mph,81%,1002 mbar,7 km
+14:50,6 °C,Overcast.,12 mph,81%,1001 mbar,7 km
+15:20,5 °C,Low clouds.,8 mph,87%,1001 mbar,6 km
+15:50,5 °C,Low clouds.,12 mph,87%,1001 mbar,5 km
+16:20,5 °C,Low clouds.,13 mph,87%,1001 mbar,5 km
+16:50,5 °C,Mostly cloudy.,8 mph,87%,1001 mbar,5 km
+17:50,5 °C,Passing clouds.,10 mph,87%,1000 mbar,5 km
+18:50,5 °C,Mostly cloudy.,13 mph,87%,1000 mbar,5 km
+19:50,5 °C,Partly cloudy.,13 mph,93%,999 mbar,6 km
+20:50,6 °C,Low clouds.,12 mph,87%,999 mbar,5 km
+21:50,6 °C,Passing clouds.,9 mph,93%,998 mbar,4 km
+22:50,6 °C,Partly cloudy.,8 mph,100%,997 mbar,3 km
+23:50,7 °C,Passing clouds.,9 mph,93%,997 mbar,4 km
+"00:50
+Fri, 22 Nov",7 °C,Passing clouds.,8 mph,100%,996 mbar,5 km
+01:50,8 °C,Passing clouds.,8 mph,93%,996 mbar,5 km
+02:50,8 °C,Passing clouds.,9 mph,93%,996 mbar,5 km
+03:50,7 °C,Passing clouds.,7 mph,93%,995 mbar,N/A
+04:50,7 °C,Passing clouds.,9 mph,100%,996 mbar,N/A
+05:50,7 °C,Partly cloudy.,9 mph,93%,996 mbar,5 km
+06:50,7 °C,Passing clouds.,8 mph,93%,996 mbar,N/A
+07:20,7 °C,Passing clouds.,8 mph,93%,996 mbar,N/A
+07:50,7 °C,Partly sunny.,9 mph,93%,996 mbar,N/A
+08:20,7 °C,Broken clouds.,8 mph,100%,996 mbar,N/A
+08:50,9 °C,Scattered clouds.,7 mph,87%,996 mbar,N/A
+09:20,9 °C,Passing clouds.,7 mph,87%,996 mbar,N/A
+09:50,8 °C,Scattered clouds.,9 mph,93%,996 mbar,N/A
+10:20,9 °C,Partly sunny.,8 mph,87%,996 mbar,N/A
+10:50,9 °C,Light rain. Partly sunny.,10 mph,87%,996 mbar,N/A
+11:50,9 °C,Partly sunny.,13 mph,94%,995 mbar,N/A
+12:20,9 °C,Broken clouds.,13 mph,87%,995 mbar,N/A
+12:50,9 °C,Broken clouds.,10 mph,87%,995 mbar,N/A
+13:23,9 °C,Broken clouds.,13 mph,87%,995 mbar,N/A
+13:50,9 °C,Light rain. Partly sunny.,12 mph,87%,995 mbar,N/A
+14:50,9 °C,Broken clouds.,13 mph,87%,995 mbar,N/A
+15:20,9 °C,Broken clouds.,13 mph,87%,994 mbar,N/A
+15:50,9 °C,More clouds than sun.,12 mph,87%,994 mbar,N/A
+16:20,9 °C,Overcast.,14 mph,87%,994 mbar,N/A
+16:50,9 °C,Mostly cloudy.,15 mph,87%,994 mbar,N/A
+17:25,9 °C,Mostly cloudy.,12 mph,87%,994 mbar,N/A
+17:50,9 °C,Clear.,13 mph,87%,994 mbar,16 km
+18:50,9 °C,Clear.,14 mph,82%,994 mbar,16 km
+19:20,9 °C,Mostly cloudy.,15 mph,82%,994 mbar,N/A
+19:50,9 °C,Clear.,14 mph,82%,994 mbar,16 km
+20:20,8 °C,Clear.,14 mph,87%,994 mbar,16 km
+20:50,8 °C,Clear.,14 mph,87%,993 mbar,16 km
+21:20,8 °C,Mostly cloudy.,12 mph,87%,993 mbar,N/A
+21:50,8 °C,Mostly cloudy.,12 mph,87%,993 mbar,N/A
+22:20,8 °C,Mostly cloudy.,12 mph,87%,993 mbar,N/A
+23:20,9 °C,Clear.,13 mph,82%,992 mbar,16 km
+23:50,9 °C,Overcast.,13 mph,82%,992 mbar,N/A
+"00:50
+Sat, 23 Nov",9 °C,Overcast.,14 mph,82%,991 mbar,N/A
+01:50,9 °C,Overcast.,12 mph,82%,991 mbar,N/A
+02:50,8 °C,Overcast.,9 mph,93%,991 mbar,N/A
+03:50,8 °C,Overcast.,10 mph,93%,990 mbar,N/A
+04:50,8 °C,Passing clouds.,10 mph,93%,990 mbar,N/A
+05:50,9 °C,Low clouds.,10 mph,87%,991 mbar,N/A
+06:50,9 °C,Passing clouds.,9 mph,94%,991 mbar,N/A
+07:21,9 °C,Passing clouds.,9 mph,94%,991 mbar,N/A
+07:50,9 °C,Partly sunny.,12 mph,94%,991 mbar,N/A
+08:20,9 °C,Partly sunny.,9 mph,94%,992 mbar,N/A
+08:50,9 °C,Partly sunny.,10 mph,94%,992 mbar,N/A
+09:20,9 °C,Drizzle. Partly sunny.,10 mph,94%,992 mbar,7 km
+09:50,9 °C,Drizzle. Partly sunny.,10 mph,94%,992 mbar,5 km
+10:20,9 °C,Drizzle. Partly sunny.,8 mph,94%,993 mbar,5 km
+10:50,9 °C,Fog.,8 mph,94%,993 mbar,6 km
+11:20,9 °C,Drizzle. Partly sunny.,7 mph,100%,993 mbar,5 km
+11:50,9 °C,Drizzle. Partly sunny.,7 mph,100%,993 mbar,5 km
+12:20,9 °C,Fog.,7 mph,100%,993 mbar,8 km
+12:50,10 °C,Fog.,7 mph,94%,993 mbar,9 km
+13:20,10 °C,Partly sunny.,7 mph,94%,993 mbar,9 km
+13:50,10 °C,Partly sunny.,8 mph,94%,993 mbar,N/A
+14:50,10 °C,Partly sunny.,9 mph,94%,994 mbar,N/A
+15:50,10 °C,Light rain. More clouds than sun.,12 mph,94%,994 mbar,8 km
+16:22,10 °C,Light rain. Partly cloudy.,14 mph,94%,994 mbar,N/A
+16:50,10 °C,Light rain. Passing clouds.,12 mph,100%,995 mbar,N/A
+17:50,11 °C,Light rain. Mostly cloudy.,12 mph,88%,995 mbar,N/A
+18:50,10 °C,Light rain. Passing clouds.,7 mph,94%,997 mbar,N/A
+19:50,10 °C,Passing clouds.,5 mph,94%,997 mbar,N/A
+20:50,9 °C,Passing clouds.,6 mph,94%,997 mbar,N/A
+21:50,8 °C,Passing clouds.,6 mph,93%,998 mbar,N/A
+22:50,7 °C,Passing clouds.,3 mph,100%,998 mbar,7 km
+23:50,8 °C,Overcast.,5 mph,100%,999 mbar,7 km
+"00:50
+Sun, 24 Nov",8 °C,Overcast.,3 mph,93%,1000 mbar,7 km
+01:50,8 °C,Fog.,2 mph,93%,1000 mbar,6 km
+02:50,7 °C,Fog.,3 mph,100%,1000 mbar,6 km
+03:20,8 °C,Fog.,1 mph,93%,1000 mbar,6 km
+04:20,8 °C,Fog.,No wind,93%,1001 mbar,6 km
+04:50,8 °C,Fog.,1 mph,93%,1001 mbar,6 km
+05:20,8 °C,Drizzle. Low clouds.,2 mph,100%,1001 mbar,4 km
+05:50,8 °C,Fog.,2 mph,100%,1001 mbar,4 km
+06:20,8 °C,Fog.,1 mph,100%,1002 mbar,3 km
+06:50,8 °C,Fog.,2 mph,100%,1002 mbar,3 km
+07:20,8 °C,Fog.,No wind,100%,1002 mbar,3 km
+07:50,8 °C,Fog.,1 mph,100%,1003 mbar,3 km
+08:20,8 °C,Fog.,2 mph,100%,1003 mbar,4 km
+08:50,9 °C,Fog.,3 mph,94%,1003 mbar,4 km
+09:32,9 °C,Fog.,3 mph,94%,1003 mbar,1 km
+09:50,9 °C,Fog.,3 mph,100%,1004 mbar,1 km
+10:20,9 °C,Fog.,5 mph,100%,1004 mbar,2 km
+10:50,9 °C,Fog.,5 mph,100%,1004 mbar,2 km
+11:20,9 °C,Fog.,3 mph,100%,1004 mbar,4 km
+11:50,10 °C,Fog.,3 mph,94%,1003 mbar,4 km
+12:20,10 °C,Fog.,6 mph,94%,1004 mbar,5 km
+12:50,10 °C,Fog.,3 mph,100%,1003 mbar,6 km
+13:20,10 °C,Partly sunny.,7 mph,94%,1004 mbar,8 km
+13:50,11 °C,Partly sunny.,3 mph,94%,1004 mbar,N/A
+14:50,11 °C,Overcast.,6 mph,88%,1004 mbar,N/A
+15:50,11 °C,Partly sunny.,5 mph,88%,1004 mbar,N/A
+16:50,11 °C,Partly cloudy.,5 mph,88%,1004 mbar,N/A
+17:50,11 °C,Passing clouds.,6 mph,88%,1004 mbar,N/A
+18:50,11 °C,Passing clouds.,7 mph,94%,1004 mbar,N/A
+19:50,11 °C,Partly cloudy.,8 mph,88%,1004 mbar,N/A
+20:50,10 °C,Partly cloudy.,10 mph,94%,1004 mbar,N/A
+21:50,10 °C,Partly cloudy.,9 mph,88%,1004 mbar,N/A
+22:50,10 °C,Partly cloudy.,8 mph,88%,1003 mbar,N/A
+23:50,10 °C,Partly cloudy.,8 mph,88%,1003 mbar,N/A
+"00:50
+Mon, 25 Nov",9 °C,Passing clouds.,8 mph,94%,1003 mbar,N/A
+01:50,9 °C,Passing clouds.,6 mph,94%,1003 mbar,N/A
+02:50,9 °C,Partly cloudy.,8 mph,94%,1003 mbar,N/A
+03:50,9 °C,Passing clouds.,7 mph,94%,1002 mbar,N/A
+04:50,9 °C,Partly cloudy.,8 mph,100%,1002 mbar,N/A
+05:50,10 °C,Passing clouds.,10 mph,94%,1002 mbar,N/A
+06:50,10 °C,Drizzle. Mostly cloudy.,9 mph,94%,1002 mbar,N/A
+07:20,10 °C,Partly cloudy.,10 mph,94%,1002 mbar,N/A
+07:50,10 °C,Drizzle. Mostly cloudy.,9 mph,94%,1002 mbar,5 km
+08:20,10 °C,Drizzle. Mostly cloudy.,8 mph,100%,1002 mbar,4 km
+08:40,10 °C,Drizzle. Mostly cloudy.,8 mph,100%,1002 mbar,2 km
+08:50,10 °C,Drizzle. Mostly cloudy.,8 mph,100%,1002 mbar,5 km
+09:19,11 °C,Drizzle. Mostly cloudy.,9 mph,94%,1002 mbar,3 km
+09:50,11 °C,Drizzle. Mostly cloudy.,8 mph,94%,1002 mbar,4 km
+10:20,11 °C,Drizzle. Partly sunny.,9 mph,94%,1002 mbar,8 km
+10:50,11 °C,Drizzle. Low clouds.,12 mph,94%,1002 mbar,4 km
+11:20,11 °C,Drizzle. Partly sunny.,12 mph,100%,1002 mbar,6 km
+11:50,11 °C,Drizzle. Mostly cloudy.,10 mph,100%,1002 mbar,6 km
+12:03,11 °C,Drizzle. Partly sunny.,8 mph,100%,1002 mbar,3 km
+12:20,11 °C,Drizzle. Partly sunny.,10 mph,100%,1001 mbar,4 km
+12:50,11 °C,Drizzle. Partly sunny.,10 mph,100%,1001 mbar,6 km
+13:20,11 °C,Drizzle. Broken clouds.,9 mph,100%,1001 mbar,6 km
+13:50,11 °C,Rain. Partly sunny.,9 mph,100%,1001 mbar,N/A
+15:00,11 °C,Drizzle. Partly sunny.,8 mph,100%,1001 mbar,5 km
+15:20,11 °C,Drizzle. Broken clouds.,7 mph,100%,1001 mbar,6 km
+15:50,11 °C,Drizzle. Partly sunny.,8 mph,100%,1001 mbar,6 km
+16:20,11 °C,Passing clouds.,6 mph,100%,1001 mbar,N/A
+16:50,11 °C,Light rain. Partly cloudy.,6 mph,100%,1001 mbar,N/A
+17:20,11 °C,Passing clouds.,5 mph,100%,1001 mbar,N/A
+17:50,11 °C,Passing clouds.,6 mph,94%,1001 mbar,N/A
+18:20,11 °C,Partly cloudy.,6 mph,100%,1001 mbar,N/A
+18:50,11 °C,Passing clouds.,6 mph,100%,1001 mbar,N/A
+19:50,11 °C,Partly cloudy.,5 mph,100%,1001 mbar,N/A
+20:50,11 °C,Passing clouds.,6 mph,100%,1001 mbar,N/A
+21:50,11 °C,Passing clouds.,6 mph,100%,1001 mbar,N/A
+22:50,11 °C,Passing clouds.,8 mph,94%,1000 mbar,N/A
+23:50,11 °C,Passing clouds.,8 mph,94%,1000 mbar,N/A
+"00:50
+Tue, 26 Nov",11 °C,Partly cloudy.,6 mph,94%,1000 mbar,N/A
+01:50,11 °C,Partly cloudy.,9 mph,94%,1000 mbar,4 km
+02:50,10 °C,Passing clouds.,7 mph,94%,999 mbar,N/A
+03:50,10 °C,Passing clouds.,6 mph,94%,999 mbar,N/A
+04:50,10 °C,Partly cloudy.,6 mph,94%,998 mbar,N/A
+05:20,10 °C,Passing clouds.,6 mph,94%,998 mbar,N/A
+05:50,10 °C,Passing clouds.,7 mph,94%,998 mbar,N/A
+06:20,10 °C,Partly cloudy.,7 mph,100%,997 mbar,6 km
+06:50,10 °C,Light rain. Passing clouds.,6 mph,100%,997 mbar,N/A
+07:50,10 °C,Drizzle. Partly sunny.,8 mph,94%,996 mbar,5 km
+08:20,10 °C,Drizzle. Partly sunny.,8 mph,94%,996 mbar,N/A
+08:42,10 °C,Drizzle. Partly sunny.,10 mph,100%,996 mbar,4 km
+08:50,10 °C,Drizzle. Partly sunny.,10 mph,100%,996 mbar,5 km
+09:20,11 °C,Drizzle. Mostly cloudy.,12 mph,94%,995 mbar,5 km
+09:50,11 °C,Drizzle. Partly sunny.,10 mph,94%,994 mbar,4 km
+10:20,11 °C,Drizzle. Partly sunny.,13 mph,100%,994 mbar,7 km
+10:50,12 °C,Drizzle. Partly sunny.,13 mph,94%,994 mbar,9 km
+11:20,12 °C,Partly sunny.,12 mph,100%,994 mbar,N/A
+11:50,13 °C,Drizzle. Partly sunny.,12 mph,94%,993 mbar,8 km
+12:20,13 °C,Light rain. Partly sunny.,12 mph,94%,993 mbar,N/A
+12:50,13 °C,Light rain. Partly sunny.,14 mph,94%,993 mbar,N/A
+13:20,13 °C,Light rain. Partly sunny.,12 mph,94%,992 mbar,N/A
+13:50,13 °C,Partly sunny.,13 mph,94%,992 mbar,N/A
+14:20,13 °C,Partly sunny.,12 mph,94%,992 mbar,N/A
+14:50,13 °C,Partly sunny.,12 mph,94%,992 mbar,N/A
+15:50,13 °C,Partly sunny.,12 mph,94%,991 mbar,N/A
+16:20,13 °C,Sprinkles. Partly cloudy.,10 mph,88%,991 mbar,N/A
+16:50,13 °C,Passing clouds.,9 mph,88%,991 mbar,N/A
+17:50,12 °C,Clear.,9 mph,88%,991 mbar,16 km
+18:20,12 °C,Clear.,10 mph,82%,991 mbar,16 km
+18:50,11 °C,Clear.,8 mph,88%,991 mbar,16 km
+19:20,10 °C,Clear.,6 mph,94%,991 mbar,16 km
+19:50,10 °C,Clear.,3 mph,94%,991 mbar,16 km
+20:20,10 °C,Clear.,5 mph,88%,991 mbar,16 km
+20:50,10 °C,Clear.,5 mph,94%,990 mbar,16 km
+21:23,10 °C,Clear.,5 mph,94%,989 mbar,16 km
+21:50,10 °C,Passing clouds.,6 mph,94%,989 mbar,N/A
+22:32,11 °C,Partly cloudy.,8 mph,100%,988 mbar,N/A
+22:50,11 °C,Passing clouds.,8 mph,94%,987 mbar,N/A
+23:20,11 °C,Partly cloudy.,7 mph,94%,987 mbar,N/A
+23:50,12 °C,Passing clouds.,7 mph,94%,987 mbar,N/A
+"00:50
+Wed, 27 Nov",12 °C,Passing clouds.,7 mph,82%,986 mbar,N/A
+01:50,11 °C,Passing clouds.,7 mph,94%,985 mbar,N/A
+02:50,10 °C,Passing clouds.,6 mph,100%,984 mbar,N/A
+03:50,10 °C,Passing clouds.,6 mph,94%,984 mbar,6 km
+04:50,10 °C,Passing clouds.,5 mph,94%,983 mbar,3 km
+05:50,10 °C,Partly cloudy.,5 mph,94%,982 mbar,N/A
+06:50,9 °C,Passing clouds.,2 mph,100%,982 mbar,N/A
+07:50,9 °C,Drizzle. Broken clouds.,3 mph,100%,982 mbar,7 km
+08:21,10 °C,Drizzle. Broken clouds.,3 mph,100%,982 mbar,5 km
+09:06,10 °C,Scattered showers. Partly sunny.,6 mph,100%,983 mbar,N/A
+09:50,10 °C,Scattered clouds.,6 mph,100%,983 mbar,N/A
+10:22,12 °C,Passing clouds.,6 mph,88%,983 mbar,N/A
+10:50,12 °C,Passing clouds.,9 mph,88%,982 mbar,N/A
+11:50,11 °C,Light rain. Partly sunny.,3 mph,88%,982 mbar,N/A
+12:20,11 °C,Rain showers. Broken clouds.,5 mph,88%,981 mbar,8 km
+12:50,11 °C,Rain showers. Broken clouds.,6 mph,94%,981 mbar,N/A
+13:20,11 °C,Sprinkles. Broken clouds.,5 mph,94%,981 mbar,7 km
+13:50,11 °C,Sprinkles. Broken clouds.,3 mph,94%,980 mbar,N/A
+14:21,11 °C,Light rain. Broken clouds.,1 mph,88%,980 mbar,N/A
+14:50,11 °C,Sprinkles. Broken clouds.,5 mph,94%,980 mbar,N/A
+15:20,11 °C,Partly sunny.,5 mph,94%,981 mbar,N/A
+15:50,10 °C,Partly sunny.,6 mph,94%,982 mbar,N/A
+16:20,10 °C,Sprinkles. Partly cloudy.,8 mph,94%,982 mbar,N/A
+16:50,10 °C,Passing clouds.,10 mph,94%,983 mbar,N/A
+17:20,10 °C,Passing clouds.,9 mph,94%,983 mbar,N/A
+17:50,10 °C,Partly cloudy.,10 mph,94%,984 mbar,N/A
+18:33,10 °C,Drizzle. Mostly cloudy.,13 mph,94%,984 mbar,6 km
+18:50,9 °C,Passing clouds.,12 mph,100%,984 mbar,N/A
+19:20,9 °C,Passing clouds.,10 mph,100%,985 mbar,N/A
+19:37,10 °C,Passing clouds.,10 mph,94%,985 mbar,4 km
+19:50,9 °C,Passing clouds.,8 mph,100%,985 mbar,6 km
+20:50,9 °C,Passing clouds.,9 mph,94%,986 mbar,N/A
+21:50,9 °C,Partly cloudy.,9 mph,94%,986 mbar,N/A
+22:50,9 °C,Passing clouds.,10 mph,94%,987 mbar,N/A
+23:50,9 °C,Passing clouds.,10 mph,94%,987 mbar,9 km
+"00:50
+Thu, 28 Nov",8 °C,Passing clouds.,10 mph,93%,988 mbar,7 km
+01:50,8 °C,Passing clouds.,10 mph,93%,988 mbar,9 km
+02:50,8 °C,Low clouds.,12 mph,93%,988 mbar,N/A
+03:50,8 °C,Overcast.,10 mph,93%,989 mbar,N/A
+04:50,8 °C,Overcast.,10 mph,93%,990 mbar,N/A
+05:50,8 °C,Overcast.,10 mph,93%,990 mbar,N/A
+06:50,8 °C,Light rain. Overcast.,10 mph,93%,991 mbar,N/A
+07:21,8 °C,Partly cloudy.,10 mph,87%,991 mbar,N/A
+07:50,8 °C,Partly sunny.,10 mph,87%,992 mbar,N/A
+08:20,8 °C,Broken clouds.,12 mph,87%,992 mbar,N/A
+08:50,8 °C,Broken clouds.,12 mph,87%,993 mbar,N/A
+09:20,9 °C,Broken clouds.,12 mph,82%,993 mbar,N/A
+09:50,9 °C,Partly sunny.,10 mph,87%,994 mbar,N/A
+10:20,9 °C,Overcast.,12 mph,87%,994 mbar,N/A
+10:50,10 °C,Broken clouds.,10 mph,82%,995 mbar,N/A
+11:20,10 °C,Partly sunny.,12 mph,82%,995 mbar,N/A
+11:50,9 °C,Broken clouds.,10 mph,87%,995 mbar,N/A
+12:50,9 °C,Broken clouds.,10 mph,87%,996 mbar,N/A
+13:20,9 °C,Light rain. Broken clouds.,9 mph,87%,996 mbar,N/A
+13:50,9 °C,Mostly cloudy.,9 mph,87%,997 mbar,N/A
+14:20,10 °C,Partly sunny.,9 mph,88%,997 mbar,N/A
+14:50,10 °C,Partly sunny.,7 mph,88%,997 mbar,N/A
+15:21,10 °C,Partly sunny.,7 mph,88%,998 mbar,N/A
+15:50,10 °C,Partly sunny.,7 mph,88%,998 mbar,N/A
+16:20,9 °C,Drizzle. Mostly cloudy.,7 mph,94%,999 mbar,N/A
+16:50,9 °C,Partly cloudy.,6 mph,94%,999 mbar,N/A
+17:20,9 °C,Partly cloudy.,5 mph,94%,999 mbar,N/A
+17:50,9 °C,Mostly cloudy.,3 mph,87%,1000 mbar,N/A
+18:50,9 °C,Light rain. Mostly cloudy.,9 mph,87%,1001 mbar,N/A
+19:25,8 °C,Drizzle. Mostly cloudy.,13 mph,87%,1001 mbar,N/A
+19:50,8 °C,Mostly cloudy.,10 mph,87%,1002 mbar,N/A
+20:50,7 °C,Passing clouds.,12 mph,87%,1003 mbar,N/A
+21:50,7 °C,Passing clouds.,7 mph,87%,1004 mbar,N/A
+22:50,7 °C,Passing clouds.,6 mph,87%,1005 mbar,N/A
+23:50,6 °C,Passing clouds.,3 mph,93%,1005 mbar,N/A
+"00:50
+Fri, 29 Nov",6 °C,Passing clouds.,2 mph,93%,1006 mbar,N/A
+01:50,6 °C,Partly cloudy.,6 mph,87%,1007 mbar,N/A
+02:50,5 °C,Overcast.,5 mph,93%,1008 mbar,N/A
+03:50,5 °C,Overcast.,6 mph,87%,1009 mbar,N/A
+04:50,4 °C,Partly cloudy.,7 mph,87%,1010 mbar,N/A
+05:50,3 °C,Passing clouds.,5 mph,93%,1011 mbar,N/A
+06:50,3 °C,Fog.,5 mph,87%,1012 mbar,N/A
+07:20,2 °C,Clear.,3 mph,93%,1012 mbar,16 km
+07:50,2 °C,Sunny.,3 mph,93%,1013 mbar,16 km
+08:20,2 °C,Sunny.,3 mph,93%,1013 mbar,16 km
+08:50,2 °C,Passing clouds.,5 mph,93%,1014 mbar,N/A
+09:50,4 °C,Sunny.,2 mph,93%,1015 mbar,16 km
+10:20,5 °C,Sunny.,7 mph,87%,1016 mbar,16 km
+10:50,6 °C,Sunny.,7 mph,81%,1016 mbar,16 km
+11:21,6 °C,Passing clouds.,6 mph,81%,1016 mbar,N/A
+11:50,7 °C,Passing clouds.,6 mph,76%,1016 mbar,N/A
+12:20,7 °C,Passing clouds.,5 mph,76%,1017 mbar,N/A
+12:50,7 °C,Passing clouds.,6 mph,76%,1017 mbar,N/A
+13:50,8 °C,Passing clouds.,3 mph,71%,1017 mbar,N/A
+14:20,8 °C,Passing clouds.,2 mph,71%,1018 mbar,N/A
+14:50,7 °C,Passing clouds.,5 mph,76%,1018 mbar,N/A
+15:20,7 °C,Passing clouds.,3 mph,76%,1018 mbar,N/A
+15:50,6 °C,Passing clouds.,3 mph,81%,1019 mbar,N/A
+16:20,5 °C,Passing clouds.,5 mph,87%,1019 mbar,N/A
+16:50,4 °C,Clear.,3 mph,87%,1020 mbar,16 km
+17:20,3 °C,Clear.,3 mph,93%,1020 mbar,16 km
+17:50,4 °C,Clear.,1 mph,93%,1020 mbar,16 km
+18:50,1 °C,Fog.,2 mph,93%,1021 mbar,N/A
+19:20,1 °C,Fog.,2 mph,93%,1021 mbar,N/A
+19:50,0 °C,Fog.,2 mph,100%,1021 mbar,N/A
+20:20,1 °C,Fog.,1 mph,100%,1021 mbar,N/A
+20:50,0 °C,Fog.,1 mph,93%,1021 mbar,N/A
+21:50,0 °C,Clear.,1 mph,100%,1021 mbar,9 km
+22:50,-1 °C,Clear.,1 mph,100%,1022 mbar,8 km
+23:50,-2 °C,Clear.,2 mph,100%,1022 mbar,8 km
+"00:50
+Sat, 30 Nov",-1 °C,Clear.,No wind,93%,1022 mbar,5 km
+01:50,-2 °C,Clear.,2 mph,100%,1022 mbar,5 km
+02:50,-2 °C,Clear.,2 mph,100%,1022 mbar,5 km
+03:50,0 °C,Passing clouds.,6 mph,93%,1022 mbar,0 km
+04:50,-1 °C,Ice fog.,3 mph,100%,1022 mbar,0 km
+05:50,0 °C,Dense fog.,3 mph,93%,1021 mbar,0 km
+06:50,0 °C,Fog.,3 mph,100%,1021 mbar,0 km
+07:20,1 °C,Fog.,3 mph,100%,1021 mbar,0 km
+07:50,1 °C,Fog.,5 mph,100%,1022 mbar,0 km
+08:20,2 °C,Fog.,3 mph,100%,1022 mbar,0 km
+08:50,2 °C,Fog.,6 mph,100%,1022 mbar,0 km
+09:22,2 °C,Fog.,6 mph,100%,1022 mbar,5 km
+09:50,3 °C,Fog.,6 mph,100%,1022 mbar,7 km
+10:20,4 °C,Passing clouds.,8 mph,100%,1022 mbar,N/A
+10:50,5 °C,Passing clouds.,9 mph,93%,1022 mbar,N/A
+11:20,6 °C,Passing clouds.,8 mph,87%,1021 mbar,N/A
+11:50,6 °C,Passing clouds.,9 mph,87%,1021 mbar,N/A
+12:50,7 °C,Scattered clouds.,8 mph,76%,1021 mbar,N/A
+13:20,7 °C,Scattered clouds.,8 mph,81%,1020 mbar,N/A
+13:50,7 °C,Scattered clouds.,12 mph,76%,1020 mbar,N/A
+14:50,7 °C,Partly sunny.,9 mph,76%,1020 mbar,N/A
+15:30,6 °C,Partly sunny.,9 mph,81%,1020 mbar,N/A
+15:50,6 °C,Partly sunny.,9 mph,87%,1020 mbar,N/A
+16:20,6 °C,Passing clouds.,8 mph,87%,1020 mbar,N/A
+16:50,5 °C,Clear.,8 mph,87%,1020 mbar,16 km
+17:20,5 °C,Clear.,9 mph,87%,1020 mbar,16 km
+17:50,5 °C,Clear.,8 mph,87%,1020 mbar,16 km
+18:20,5 °C,Clear.,8 mph,87%,1020 mbar,16 km
+18:50,5 °C,Clear.,9 mph,87%,1020 mbar,16 km
+19:20,4 °C,Clear.,8 mph,93%,1020 mbar,16 km
+19:50,4 °C,Clear.,9 mph,93%,1020 mbar,16 km
+20:20,4 °C,Clear.,7 mph,87%,1020 mbar,16 km
+20:50,4 °C,Passing clouds.,7 mph,87%,1020 mbar,N/A
+21:50,3 °C,Passing clouds.,9 mph,93%,1020 mbar,N/A
+22:50,3 °C,Overcast.,7 mph,93%,1021 mbar,N/A
+23:50,3 °C,Passing clouds.,7 mph,87%,1021 mbar,N/A
